@@ -1,6 +1,6 @@
 # RandomJavascriptCode
 <br/>
-⭐ Javascript basic concept codes, <br/> 
+⭐ Javascript basic concept codes implemented <br/> 
 ⭐ Early days codes added <br>
 ⭐ Conditional statements like if-else, switch etc. covered <br>
 ⭐ Break and continue logic explained <br>
